@@ -33,7 +33,7 @@ Chirag here, pursuing Computer Science and Engineering at [JIS College of Engine
 ### My Skills
 
 <div align="center" width=100%>
-    <img title="Python" height="50" src="https://img.icons8.com/color/50/000000/python.png"">
+    <img title="Python" height="50" src="https://img.icons8.com/color/50/000000/python.png">
     <img title="C" height="50" src="https://img.icons8.com/color/48/000000/c-programming.png">
     <img title="Java" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
     <img title="Android" height="50" src=""https://img.icons8.com/fluent/48/000000/android-os.png">
