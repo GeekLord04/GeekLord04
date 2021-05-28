@@ -1,4 +1,4 @@
-### Hey Geeks 👋 
+### <head font size = "40">Hey Geeks 👋 </head>
 
 Chirag here, pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyani, West Bengal.](https://www.jiscollege.ac.in)
 <br>
