@@ -32,7 +32,6 @@ Chirag here, pursuing Computer Science and Engineering at [JIS College of Engine
     <a href="https://www.instagram.com/untouched_aurum_/">
       <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
     </a>
-    
   </p>
 
 <hr>
