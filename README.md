@@ -17,18 +17,12 @@ Chirag here, pursuing Computer Science and Engineering at [JIS College of Engine
     <a href="https://www.linkedin.com/in/chirag-chakraborty-6240971b6/">
       <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
     </a>
-    
-    
     <a href="https://www.facebook.com/chirag.chakraborty.378/">
       <img alt="Facebook" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
     </a>
-    
-    
     <a href="https://twitter.com/untouched_aurum">
       <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
     </a>
-    
-    
     <a href="https://www.instagram.com/untouched_aurum_/">
       <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
     </a>
