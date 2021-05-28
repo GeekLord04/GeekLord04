@@ -10,7 +10,7 @@ Chirag here, pursuing Computer Science and Engineering at [JIS College of Engine
 - 👨🏽‍💻 A student and a newbie Android developer
 - 🌱 Still struggling with functions :(
 - 👽 Also feeding on memes
-- 🎼 Send me more Indie songs for coding
+- 🎼 Send me more Indie songs
 - 📫 Connect with me 
 
 <p align="center">
