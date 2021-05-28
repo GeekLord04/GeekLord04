@@ -45,5 +45,5 @@ Chirag here, pursuing Computer Science and Engineering at [JIS College of Engine
 
 <div align="center" width="100%">
     <!-- img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritra-tech&layout=compact&theme=dracula" -->
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=aritra-tech&show_icons=true&theme=dracula&count_private=t&hide=stars">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=GeekLord04&show_icons=true&theme=dracula&count_private=t&hide=stars">
 </div>
