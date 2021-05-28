@@ -11,7 +11,7 @@ Chirag here, pursuing Computer Science and Engineering at [JIS College of Engine
 - 🌱 Still struggling with functions :(
 - 👽 Also feeding on memes
 - 🎼 Send me more Indie songs for coding
-- 📫 Connect with me 👇
+- 📫 Connect with me 
 
 <p align="center">
     <a href="https://www.linkedin.com/in/chirag-chakraborty-6240971b6/">
@@ -22,6 +22,9 @@ Chirag here, pursuing Computer Science and Engineering at [JIS College of Engine
     </a>
     <a href="https://twitter.com/untouched_aurum">
       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/untouched_aurum_/">
+      <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
     </a>
   </p>
 
