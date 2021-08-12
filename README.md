@@ -7,7 +7,7 @@ Chirag here, pursuing Computer Science and Engineering at [JIS College of Engine
 
 ## Here's more about me:
 
-- 👨🏽‍💻 A student and a newbie Android developer
+- 👨🏽‍💻 A student and an Android developer
 - 🌱 Still struggling with functions :(
 - 👽 Also feeding on memes
 - 🎼 Send me more Indie songs
