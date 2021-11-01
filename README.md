@@ -1,6 +1,6 @@
-### <body> <h1 style = "font-size:40px;">Hey Geeks 👋 </h1></body>
+### <body> <h1 style = "font-size:40px;">Hey Geeks 👋 Chirag here </h1></body>
 
-Chirag here, pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyani, West Bengal.](https://www.jiscollege.ac.in)
+Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyani, West Bengal.](https://www.jiscollege.ac.in)
 <br>
 <hr>
 <br>
