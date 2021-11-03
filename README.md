@@ -2,8 +2,6 @@
 
 Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyani, West Bengal.](https://www.jiscollege.ac.in)
 <br>
-    <div align="center" width="100%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeekLord04&theme=darcula&show_icons=true" />
 <hr>
 <br>
 
@@ -47,5 +45,4 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 
 <div align="center" width="100%">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeekLord04&theme=darcula&show_icons=true" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GeekLord04&theme=darcula" />
 </div>
