@@ -42,11 +42,3 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
     <img title="Java" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
     <img title="Android" height="50" src="https://img.icons8.com/fluent/48/000000/android-os.png">
 </div>
-
-## Checkout my highlights
-
-<br>
-
-<div align="center" width="100%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeekLord04&theme=darcula&show_icons=true" />
-</div>
