@@ -45,4 +45,6 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 
 <div align="center" width="100%">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=GeekLord04&theme=algolia&count_private=true&include_all_commits=true&show_icons=true">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GeekLord04&theme=darcula" />
+</a>
 </div>
