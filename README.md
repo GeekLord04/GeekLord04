@@ -10,7 +10,7 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 <hr>
 
 ## 🚀 Here's more about me:
-
+- 😄 Pronouns - he/him
 - 👨🏽‍💻 A student and an Android developer
 - 🌱 Still struggling with functions :(
 - 👽 Also feeding on memes
