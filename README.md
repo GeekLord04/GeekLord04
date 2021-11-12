@@ -9,7 +9,7 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 </div>
 <hr>
 
-## Here's more about me:
+## 🚀 Here's more about me:
 
 - 👨🏽‍💻 A student and an Android developer
 - 🌱 Still struggling with functions :(
@@ -34,7 +34,7 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 
 <hr>
 
-### My Skills
+### 🛠 My Skills
 
 <div align="center" width=100%>
     <img title="Python" height="50" src="https://img.icons8.com/color/50/000000/python.png">
