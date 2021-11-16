@@ -42,3 +42,4 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
     <img title="Java" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
     <img title="Android" height="50" src="https://img.icons8.com/fluent/48/000000/android-os.png">
 </div>
+<br>![Profile views](https://visitor-badge.glitch.me/badge?page_id=aritra-tech.aritra-tech)<br>
