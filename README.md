@@ -15,8 +15,7 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 - 🌱 Still struggling with functions :(
 - 👽 Also feeding on memes
 - 🎼 Send me more Indie songs
-- 📫 Connect with me 
-
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/chirag-chakraborty-6240971b6/">
       <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
