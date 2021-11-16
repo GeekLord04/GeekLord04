@@ -6,6 +6,7 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 <br>
 <div align="center" width="100%">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeekLord04&theme=darcula&show_icons=true" />
+    ![Chirag's G𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=GeekLord04&theme=darcula&hide_border=true&area=true)
 </div>
 <hr>
 
