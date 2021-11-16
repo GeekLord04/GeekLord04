@@ -33,7 +33,7 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 
 <hr>
 
-## 🛠 My Skills
+## <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div align="center" width=100%>
     <img title="Python" height="50" src="https://img.icons8.com/color/50/000000/python.png">
