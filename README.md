@@ -4,7 +4,7 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 [![Github](https://img.shields.io/github/followers/aritra-tech?label=Follow&style=social)](https://github.com/GeekLord04)<br>
 <hr>
 <br>
-<div align="center" width="100%">
+<div align="center" width="50%">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=GeekLord04&theme=darcula&show_icons=true" />
     <img align="left" src="https://activity-graph.herokuapp.com/graph?username=GeekLord04&theme=redical&hide_border=true&area=true" />
 </div>
