@@ -41,4 +41,5 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
     <img title="Java" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
     <img title="Android" height="50" src="https://img.icons8.com/fluent/48/000000/android-os.png">
 </div>
-<br>![Profile views](https://visitor-badge.glitch.me/badge?page_id=aritra-tech.aritra-tech)<br>
+    ![Profile views](https://visitor-badge.glitch.me/badge?page_id=GeekLord04.GeekLord04)
+[![Github](https://img.shields.io/github/followers/aritra-tech?label=Follow&style=social)](https://github.com/GeekLord04)
