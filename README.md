@@ -5,9 +5,9 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 <hr>
 <br>
 <div align="center" width="100%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeekLord04&theme=darcula&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=GeekLord04&theme=darcula&show_icons=true" />
+    <img align="left" src="https://activity-graph.herokuapp.com/graph?username=GeekLord04&theme=redical&hide_border=true&area=true" />
 </div>
-![Chirag's G𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=GeekLord04&theme=darcula&hide_border=true&area=true)
 <hr>
 
 ## 🚀 Here's more about me:
