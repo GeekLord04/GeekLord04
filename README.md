@@ -1,4 +1,4 @@
-### <body> <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Chirag<a> <img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1></body>
+### <body> <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Chirag<a> <img width="60" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1></body>
 Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyani, West Bengal.](https://www.jiscollege.ac.in)
 <br><br>![Profile views](https://visitor-badge.glitch.me/badge?page_id=GeekLord04.GeekLord04)
 [![Github](https://img.shields.io/github/followers/aritra-tech?label=Follow&style=social)](https://github.com/GeekLord04)<br>
