@@ -14,7 +14,8 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 </div>
     <br>
 <div align="center" width="100%">
-    <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekLord04)](https://github.com/GeekLord04/github-readme-stats)
+    <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekLord04&layout=compact)](https://github.com/GeekLord04/github-readme-stats)" />
+</div>
 <hr>
 
 ## 🚀 Here's more about me:
