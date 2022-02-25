@@ -14,7 +14,7 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 </div>
     <br>
 <div align="center" width="100%">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekLord04&langs_count=8" />
 </div>
 <hr>
 
