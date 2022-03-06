@@ -5,9 +5,11 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 <br>![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)<br>
 <hr>
 <br>
-<div align="center" width="100%">
+<div align="center" width="100%" class="row">
+    <div class="column">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=GeekLord04&show_icons=true&theme=radical" />
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=GeekLord04&theme=radical" />
+    </div>
 </div>
     <br>
 <div align="center" width="100%">
