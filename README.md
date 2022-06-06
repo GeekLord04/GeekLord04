@@ -51,6 +51,6 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
     <img title="Java" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
     <img title="Android" height="50" src="https://img.icons8.com/fluent/48/000000/android-os.png">
 </div>
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60'></h2>
+<h2> Some Programming Humor for you <img align ='left' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
