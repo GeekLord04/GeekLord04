@@ -17,7 +17,6 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 <div align="center" width="100%">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekLord04&langs_count=8" />
 </div>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GeekLord04&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Chirag Chakraborty" /></a></p>
 <hr>
 
 ## 🚀 Here's more about me:
@@ -26,6 +25,7 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 - 🌱 Still struggling with functions :(
 - 👽 Also feeding on memes
 - 🎼 Send me more Indie songs
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GeekLord04&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Chirag Chakraborty" /></a></p>
 <h2> Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/chirag-chakraborty-6240971b6/">
