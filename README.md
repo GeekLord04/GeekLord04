@@ -6,7 +6,8 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 <hr>
 <br>
 <div align="center" width="100%">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GeekLord04&theme=redical&hide_border=true&area=true" />
+    <a href="https://github.com/GeekLord04/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </div>
     <br>
 <div align="center" width="100%">
