@@ -11,7 +11,9 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 </div>
     <br>
 <div align="center" width="100%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekLord040&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <a href="https://github.com/Pepyn0/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
 </div>
 <hr>
 
