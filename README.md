@@ -16,8 +16,7 @@ Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyan
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayshaw7777&layout=compact)](https://github.com/binayshaw7777/github-readme-stats)
 
 </div>
-        
-    <br>
+
 <div align="center" width="100%">
   <a href="https://github.com/GeekLord04/github-readme-stats">
 </a>
