@@ -1,5 +1,7 @@
 ### <body> <h1 align="center">Hi👋 I'm Chirag<a> <br><br> <img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1></body>
-Pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyani, West Bengal.](https://www.jiscollege.ac.in)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+Developer;Building%20apps,%20brewing%20coffee☕&center=true&width=500&height=50"></a>
+</p>
 <br><br>![Profile views](https://komarev.com/ghpvc/?username=GeekLord04&color=green)
 [![Github](https://img.shields.io/github/followers/GeekLord04?label=Follow&style=social)](https://github.com/GeekLord04)<br>
 <br>![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)<br>
