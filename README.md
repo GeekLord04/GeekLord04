@@ -43,7 +43,7 @@
       <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
     </a>
     <a href="mailto:chiragofficial04@gmail.com">
-      <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+      <img alt="Gmail" src="https://img.icons8.com/color/48/gmail-new.png" />
     </a>
   </p>
 <hr>
