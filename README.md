@@ -16,7 +16,7 @@
 <div align="center" width=100%>
 
 <!--div> [](https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=prussian&hide_border=true)<br/> </div-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GeekLord04/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekLord04&layout=compact)](https://github.com/GeekLord04/github-readme-stats)
 
 </div>
 
@@ -42,7 +42,7 @@
     <a href="https://twitter.com/untouched_aurum">
       <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
     </a>
-    <a href="https://twitter.com/untouched_aurum">
+    <a href="mailto:chiragofficial04@gmail.com">
       <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
     </a>
   </p>
