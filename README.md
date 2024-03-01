@@ -16,7 +16,7 @@
 <div align="center" width=100%>
 
 <!--div> [](https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=prussian&hide_border=true)<br/> </div-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekLord04&hide_progress=true)](https://github.com/GeekLord04/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GeekLord04/github-readme-stats)
 
 </div>
 
@@ -39,14 +39,11 @@
     <a href="https://www.linkedin.com/in/chirag-chakraborty-6240971b6/">
       <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
     </a>
-    <a href="https://www.facebook.com/chirag.chakraborty.378/">
-      <img alt="Facebook" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
-    </a>
     <a href="https://twitter.com/untouched_aurum">
       <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
     </a>
-    <a href="https://www.instagram.com/untouched_aurum_/">
-      <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+    <a href="https://twitter.com/untouched_aurum">
+      <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
     </a>
   </p>
 <hr>
