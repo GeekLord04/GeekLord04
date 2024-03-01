@@ -1,4 +1,4 @@
-### <body> <h1 align="center">Hi👋 I'm Chirag<a> <br><br> <img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1></body>
+### <body> <h1 align="center">Hi👋 I'm Chirag<a> <br><br></h1></body>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+Developer;Building%20apps,%20brewing%20coffee☕&center=true&width=500&height=50"></a>
 </p>
