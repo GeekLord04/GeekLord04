@@ -39,7 +39,7 @@
     <a href="https://www.linkedin.com/in/chirag-chakraborty-6240971b6/">
       <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
     </a>
-    <a href="https://twitter.com/untouched_aurum">
+    <a href="https://x.com/GeekLord04">
       <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
     </a>
     <a href="mailto:chiragofficial04@gmail.com">
