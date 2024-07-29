@@ -1,6 +1,6 @@
 ### <body> <h1 align="center">Hi👋 I'm Chirag<a> <br><br></h1></body>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Android+Developer;Building%20apps,%20brewing%20coffee☕&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Building%20apps,%20brewing%20coffee☕&center=true&width=500&height=50"></a>
 </p>
 
 <br><br>![Profile views](https://komarev.com/ghpvc/?username=GeekLord04&color=green)
@@ -29,7 +29,7 @@
 
 ## 🚀 Here's more about me:
 - 😄 Pronouns - he/him
-- 👨🏽‍💻 A student and an Android developer
+- 👨🏽‍💻 A CSE Graduate and an Android Developer
 - 🌱 Still struggling with functions :(
 - 👽 Also feeding on memes
 - 🎼 Send me more Indie songs
