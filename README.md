@@ -1,9 +1,8 @@
 
-![readme_img](https://github.com/user-attachments/assets/b5940740-7f30-4c9d-be38-6a0ff09b5739)
+![updated img2](https://github.com/user-attachments/assets/1a0228b9-e41c-4af4-bf50-dce4123be582)
 
-### <body> <h1 align="center">Hi👋 I'm Chirag<a> <br><br></h1></body>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Building%20apps,%20brewing%20coffee☕&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Building%20apps,%20brewing%20coffee☕&center=true&width=700&height=110&size=35&font=Roboto+Mono&color=B125EA99"></a>
 </p>
 
 <br><br>![Profile views](https://komarev.com/ghpvc/?username=GeekLord04&color=green)
@@ -50,24 +49,6 @@
     </a>
   </p>
 <hr>
-
-<!--
-## <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="60"> </h2> 
-
-<!-- Center the following content within the div -->
-<!-- div align="center" width=100%>
-    <!-- Displaying Python skill icon with a tooltip title -->
-    <img title="Python" height="50" src="https://img.icons8.com/color/50/000000/python.png">
-    
-    <!-- Displaying C programming skill icon with a tooltip title -->
-    <img title="C" height="50" src="https://img.icons8.com/color/48/000000/c-programming.png">
-    
-    <!-- Displaying Java skill icon with a tooltip title -->
-    <img title="Java" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-    
-    <!-- Displaying Android skill icon with a tooltip title -->
-    <img title="Android" height="50" src="https://img.icons8.com/fluent/48/000000/android-os.png">
-<!-- /div -->
 
 <h2> Some Programming Humor for you <img align ='ccentre' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = "60"></h2>
 
