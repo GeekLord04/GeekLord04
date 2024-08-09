@@ -2,7 +2,7 @@
 ![updated img2](https://github.com/user-attachments/assets/1a0228b9-e41c-4af4-bf50-dce4123be582)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Building%20apps,%20brewing%20coffee☕&center=true&width=700&height=110&size=35&font=Roboto+Mono&color=B125EA99"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Building%20apps,%20brewing%20coffee☕&center=true&width=700&height=110&size=35&font=Roboto+Mono&color=30DC80"></a>
 </p>
 
 <br><br>![Profile views](https://komarev.com/ghpvc/?username=GeekLord04&color=green)
