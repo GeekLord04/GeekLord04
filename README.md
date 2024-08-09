@@ -1,3 +1,6 @@
+
+![readme_img](https://github.com/user-attachments/assets/b5940740-7f30-4c9d-be38-6a0ff09b5739)
+
 ### <body> <h1 align="center">Hi👋 I'm Chirag<a> <br><br></h1></body>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Building%20apps,%20brewing%20coffee☕&center=true&width=500&height=50"></a>
@@ -48,14 +51,24 @@
   </p>
 <hr>
 
-## <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "60"> </h2>
+<!--
+## <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="60"> </h2> 
 
-<div align="center" width=100%>
+<!-- Center the following content within the div -->
+<!-- div align="center" width=100%>
+    <!-- Displaying Python skill icon with a tooltip title -->
     <img title="Python" height="50" src="https://img.icons8.com/color/50/000000/python.png">
+    
+    <!-- Displaying C programming skill icon with a tooltip title -->
     <img title="C" height="50" src="https://img.icons8.com/color/48/000000/c-programming.png">
+    
+    <!-- Displaying Java skill icon with a tooltip title -->
     <img title="Java" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+    
+    <!-- Displaying Android skill icon with a tooltip title -->
     <img title="Android" height="50" src="https://img.icons8.com/fluent/48/000000/android-os.png">
-</div>
+<!-- /div -->
+
 <h2> Some Programming Humor for you <img align ='ccentre' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = "60"></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
