@@ -26,11 +26,12 @@
 
 
 ## 🚀 Here's more about me:
-- 😄 Pronouns - he/him
-- 👨🏽‍💻 A CSE Graduate and an Android Developer
-- 🌱 Still struggling with functions :(
-- 👽 Also feeding on memes
-- 🎼 Send me more Indie songs
+- 👨🏽‍💻 Building apps by day, breaking them by night
+- 🧠 CSE Grad trying to make sense of software and life
+- 💼 Currently employed (somehow still not fired)
+- 💬 Fluent in Java, Kotlin & occasional sarcasm
+- 🎧 Fueled by coffee and Indie playlists
+- 📎 Ask me about memes, music, or mobile dev
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GeekLord04&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Chirag Chakraborty" /></a></p>
 <h2> Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 <p align="center">
